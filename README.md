@@ -15,6 +15,7 @@ into Matlab command window.
 
 ## References
 [**[1]**] Hadi, A.S., 1992. Identifying multiple outliers in multivariate data. Journal of the Royal Statistical Society. Series B (Methodological), Vol. 54(3), pp. 761-771.  
+
 [**[2]**] Weiszfeld, E., 1937. Sur le point par lequel la somme des distances den points donnés est minimum. Tohoku Mathematics Journal, Vol. 43, pp. 355–386.
 
 ## License
