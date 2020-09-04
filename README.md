@@ -1,4 +1,7 @@
 ## Summary
+
+[![View Detect outliers in multivaraite datasets on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/65817-detect-outliers-in-multivaraite-datasets)
+
 This submission contains Matlab implementation of an iterative **multivariate outlier detection algorithm** 
 described in [Hadi (1992)] [[1]]. In addition to flagging potential outliers, the main function
 `DetectMultVarOutliers.m` also outputs robust estimates of the mean and covariance that it computes 
